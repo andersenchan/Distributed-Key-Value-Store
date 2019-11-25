@@ -4,10 +4,6 @@ Message me to se the code.
 
 ## Architecture
 
-### Overview
-
-Our system has a balance of speed and fault tolerance.
-
 ### Database
 
 #### Partition
