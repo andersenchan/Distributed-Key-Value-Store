@@ -1,6 +1,6 @@
 # Distributed-Key-Value-Store
 
-Message me to se the code.
+Message me to see the code.
 
 ## Architecture
 
